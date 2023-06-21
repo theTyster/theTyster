@@ -8,7 +8,7 @@ My main objective as a front-end programmer is to make it easier for users to ac
 
 ## My Web Development Journey
 
-I have been studying JavaScript every day of 2023. I have come a long way, but I still have so much to learn.
+I have been studying JavaScript [every day](https://github.com/theTyster/interactive_story) of 2023. I have come a long way, but I still have so much to learn.
 
 My personal goal is to create software that empowers users with:
 - Privacy

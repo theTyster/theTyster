@@ -18,11 +18,9 @@ My personal goal is to create software that empowers users with:
 
 ## Hit me with your Q's
 
-[![Ty - Ask Me](https://img.shields.io/badge/GitHub%20Discussions-Ask%20Me%20A%20Question?color=green&style=for-the-badge&logo=githublogoColor=white)](https://github.com/theTyster/theTyster/discussions)
+[![Ty - Ask Me](https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=purple&color=gray)](https://github.com/theTyster/theTyster/discussions)
 
-## Telegram
-
-[![Static Badge](https://img.shields.io/badge/telegram-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray)](https://t.me/theTysterr)
+[![Static Badge](https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray)](https://t.me/theTysterr)
 
 ## Stats
 

@@ -25,3 +25,5 @@ My personal goal is to create software that empowers users with:
 ## Stats
 
 [![Ty - Wakatime](https://wakatime.com/share/@fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7/6977b4fd-0638-41eb-a9be-092c13893dbb.png)](https://wakatime.com/@theTyster)
+
+[![wakatime](https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge)](https://wakatime.com/@theTyster)

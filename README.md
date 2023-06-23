@@ -15,14 +15,23 @@ My personal goal is to create software that empowers users with:
 - Transparency
 - Integrations
 
+## My Personal Tech Stack
+I run multiple servers at home and have set up web servers for clients remotely. So, I appreciate tools that are portable and lightweight. 
+
+For the last four years I have been running Linux Exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. Vim has been my weapon of choice ever since I learned about it.
+
+<a href="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"><img alt="Tux the Penguin" height="48px" src="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"></a>
+<a href="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"><img alt="Vim the Editor" src="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"></a>
 
 ## Hit me with your Q's
 
-[![Ty - Ask Me](https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=purple&color=gray)](https://github.com/theTyster/theTyster/discussions)
+[![Ask Me a Question](https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=purple&color=gray)](https://github.com/theTyster/theTyster/discussions)
 
-[![Static Badge](https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray)](https://t.me/theTysterr)
+[![Telegram](https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray)](https://t.me/theTysterr)
+
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge)](https://wakatime.com/@theTyster)
 
-[![Ty - Wakatime](https://wakatime.com/share/@fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7/6977b4fd-0638-41eb-a9be-092c13893dbb.png)](https://wakatime.com/@theTyster)
+<a href="https://wakatime.com"><img alt="Waka Coding Stats" width="500px" src="https://wakatime.com/share/@theTyster/606900cb-c453-4302-acb9-fbb3ba2f7cee.png" /></a>
+<a href="https://wakatime.com"><img alt="Waka Language Stats" width="500px" src="https://wakatime.com/share/@theTyster/887d1c8b-cfd4-4930-98b4-7c4cdcaff05d.png" /></a>

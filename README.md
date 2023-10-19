@@ -31,7 +31,10 @@ For the last four years I have been running Linux Exclusively. After testing out
 
 
 ## Stats
-[![wakatime](https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge)](https://wakatime.com/@theTyster)
+[![wakatime](https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge)](https://wakatime.com/@theTyster) 
 
-<a href="https://wakatime.com"><img alt="Waka Coding Stats" src="https://wakatime.com/share/@theTyster/606900cb-c453-4302-acb9-fbb3ba2f7cee.png" /></a>
-<a href="https://wakatime.com"><img alt="Waka Language Stats" src="https://wakatime.com/share/@theTyster/887d1c8b-cfd4-4930-98b4-7c4cdcaff05d.png" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTyster&layout=donut-vertical)](https://github.com/theTyster)
+
+<a href="https://wakatime.com/@thetyster"><img alt="Waka Coding Stats" src="https://wakatime.com/share/@theTyster/606900cb-c453-4302-acb9-fbb3ba2f7cee.png" style="justify-content: center; display: grid;"/></a>
+<a href="https://wakatime.com/@thetyster"><img alt="Waka Language Stats" src="https://wakatime.com/share/@theTyster/887d1c8b-cfd4-4930-98b4-7c4cdcaff05d.png" style="justify-content: center; display: grid;"/></a>
+<a href="https://wakatime.com/@thetyster"><img alt="Waka Coding Days Table" src="https://wakatime.com/share/@theTyster/4f40b687-cb7c-472e-a7a1-df3e6b0a9f26.png" style="justify-content: center; display: grid;"/></a>

@@ -8,9 +8,9 @@ My main objective as a front-end programmer is to make it easier for users to ac
 
 ## My Web Development Journey
 
-I have been studying JavaScript [every day](https://github.com/theTyster/interactive_story) of 2023. I have come a long way, but I still have so much to learn.
+I have been studying web development every day since January 2023. I have come a long way, but I still have so much to learn.
 
-My personal goal is to create software that empowers users with:
+I want to create software that empowers users with:
 - Privacy
 - Transparency
 - Integrations
@@ -18,7 +18,8 @@ My personal goal is to create software that empowers users with:
 ## My Personal Tech Stack
 I run multiple servers at home and have set up web servers for clients remotely. So, I appreciate tools that are portable and lightweight. 
 
-For the last four years I have been running Linux Exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. Vim has been my weapon of choice ever since I learned about it.
+Since 2019 I have been running Linux Exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. 
+Vim is my favorite editor.
 
 <a href="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"><img alt="Tux the Penguin" height="48px" src="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"></a>
 <a href="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"><img alt="Vim the Editor" src="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"></a>

@@ -1,6 +1,6 @@
 # I'm [Ty](https://tydavisportfolio.wordpress.com)! 💾🐧
 
-![greeting](![GithubAvi](https://github.com/theTyster/theTyster/assets/136642464/acb36e66-6088-47ef-8cf5-10fc82348008)
+![Greeting](https://github.com/theTyster/theTyster/assets/136642464/acb36e66-6088-47ef-8cf5-10fc82348008)
 
 I am passionate about uniting people from different walks of life. I started my career in public relations and decided to make the switch to web development as I began to understand how much of an impact computers really have on our ability to communicate and build bridges.
 

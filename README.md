@@ -2,7 +2,7 @@
 
 ![greeting](https://github.com/theTyster/first-codes/assets/136642464/0725f9c9-c681-42a0-ae14-faa3f98789f7)
 
-I am passionate about uniting people from different walks of life. I started my career in public relations and decided to make the switch to programming as I began to understand how much of an impact computers really have on our ability to communicate and build bridges.
+I am passionate about uniting people from different walks of life. I started my career in public relations and decided to make the switch to web development as I began to understand how much of an impact computers really have on our ability to communicate and build bridges.
 
 My main objective as a front-end programmer is to make it easier for users to access the information they are looking for. Secondary to that, I want people to be able to trust the programs and software that they are using. A good front end really makes a difference.
 
@@ -11,9 +11,9 @@ My main objective as a front-end programmer is to make it easier for users to ac
 I have been studying web development every day since January 2023. I have come a long way, but I still have so much to learn.
 
 I want to create software that empowers users with:
-- Privacy
-- Transparency
-- Integrations
+- Accessible interfaces
+- Transparent Privacy
+- Seamless Integrations
 
 ## My Personal Tech Stack
 I run multiple servers at home and have set up web servers for clients remotely. So, I appreciate tools that are portable and lightweight. 

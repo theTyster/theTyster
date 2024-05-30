@@ -1,4 +1,4 @@
-# I'm [Ty](https://tydavisportfolio.wordpress.com)! 💾🐧
+# I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
 
 ![Greeting](https://github.com/theTyster/theTyster/assets/136642464/298e0bf5-1485-4f07-b90f-8e226521ebd0)
 

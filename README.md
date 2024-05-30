@@ -2,13 +2,13 @@
 
 ![Greeting](https://github.com/theTyster/theTyster/assets/136642464/298e0bf5-1485-4f07-b90f-8e226521ebd0)
 
-I am passionate about uniting people from different walks of life. I started my career in public relations and decided to make the switch to web development as I began to understand how much of an impact computers really have on our ability to communicate and build bridges.
+I am passionate about uniting people from different walks of life. I started my career in public relations and decided to further it by focusing in on web development. The web is probably the greatest tool in modern public relations. 
 
-My main objective as a front-end programmer is to make it easier for users to access the information they are looking for. Secondary to that, I want people to be able to trust the programs and software that they are using. A good front end really makes a difference.
+My main objective as a front-end programmer is to make it easier for users to access information. Secondary to that, I want people to be able to trust the programs and software that they are using.
 
 ## My Web Development Journey
 
-I have been studying web development every day since January 2023. I have come a long way, but I still have so much to learn.
+I have been studying web development every day since January 2023. I've come a long way, but still have so much to learn.
 
 I want to create software that empowers users with:
 - Accessible interfaces
@@ -18,7 +18,7 @@ I want to create software that empowers users with:
 ## My Personal Tech Stack
 I run multiple servers at home and have set up web servers for clients remotely. So, I appreciate tools that are portable and lightweight. 
 
-Since 2019 I have been running Linux Exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. 
+Since 2019 I have been running Linux exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. 
 Vim is my favorite editor.
 
 <a href="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"><img alt="Tux the Penguin" height="48px" src="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"></a>

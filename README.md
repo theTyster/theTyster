@@ -21,7 +21,7 @@ I run multiple servers at home and have set up web servers for clients remotely.
 Since 2019 I have been running Linux exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. 
 Vim is my favorite editor.
 
-<a href="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"><img alt="Tux the Penguin" height="48px" src="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"></a>
+<a href="https://raw.githubusercontent.com/garrett/Tux/ecd40de64250ea2b24c849e901c3297ad01e54f6/tux.svg?raw=true"><img alt="Tux the Penguin" height="48px" src="https://github.com/garrett/Tux/blob/main/tux-large.png?raw=true"></a>
 <a href="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"><img alt="Vim the Editor" src="https://github.com/vim/vim/blob/master/runtime/vim48x48.png?raw=true"></a>
 
 ## Hit me with your Q's

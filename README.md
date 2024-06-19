@@ -30,6 +30,8 @@ Vim is my favorite editor.
 
 [![Telegram](https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray)](https://t.me/theTysterr)
 
+## Pins
+[![An image of @thetyster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thetyster)](https://holopin.io/@thetyster)
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge)](https://wakatime.com/@theTyster) 

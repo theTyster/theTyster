@@ -32,9 +32,9 @@ Vim is my favorite editor.
 <br><br><br>
 ## Hit me with your Q's
 <p align='center'>
-  <a href='https://github.com/theTyster/theTyster/discussions'><img alt='Ask Me a Question' src='https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=purple&color=gray'></a>
+  <a href='https://github.com/theTyster/theTyster/discussions'><img alt='Ask Me a Question' src='https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=black&color=gray'></a>
   &nbsp; &nbsp;
-  <a href='https://t.me/theTysterr'><img alt='Telegram' src='https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=blue&color=gray'></a>
+  <a href='https://t.me/theTysterr'><img alt='Telegram' src='https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=white&color=gray'></a>
 </p>
 
 <br><br><br>

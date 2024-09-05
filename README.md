@@ -20,7 +20,7 @@ I want to create software that empowers users with:
 ## My Personal Tech Stack
 I run multiple servers at home and have set up web servers for clients remotely. So, I appreciate tools that are portable and lightweight. 
 
-Since 2019 I have been running Linux exclusively. After testing out lots of distro's I settled on Debian and will run it on anything that has a CPU. 
+Since 2019 I have been running Linux exclusively. After testing out lots of distributions, I settled on Debian and will run it on anything that has a CPU. 
 Vim is my favorite editor.
 
 <p align='center'>

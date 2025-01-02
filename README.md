@@ -1,7 +1,8 @@
+![GithubAvi]()
 # I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
 
 <p align='center'>
-  <img alt='Greeting' src='https://github.com/user-attachments/assets/0fe3edf3-5803-4bfc-b033-3d519fdc04fc'>
+  <img alt='Greeting' src='https://github.com/user-attachments/assets/f4184d07-673b-4f5d-b72a-e32f69d4ba24'>
 </p>
 I am a software engineer with a background in public relations and advertising. Engineering dynamic, interactive, engaging, and search engine optimized content is my specialty.
 

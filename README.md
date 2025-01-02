@@ -1,4 +1,3 @@
-![GithubAvi]()
 # I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
 
 <p align='center'>

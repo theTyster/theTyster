@@ -68,7 +68,7 @@ Vim is my favorite editor.
 <p align='center'>
   <a href='https://wakatime.com/@theTyster'><img alt='wakatime' src='https://wakatime.com/badge/user/fe1fe4d7-b86e-4ef6-bfc0-aff9cbce7ae7.svg?style=for-the-badge'></a><br><br><br><br>
   <a href='https://github.com/theTyster'><img alt='Top Langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheTyster&layout=donut-vertical'></a>  
-  <a href="https://roadmap.sh/u/thetyster"><img src="https://roadmap.sh/card/tall/677554a170129741a8879f3e?variant=dark&roadmaps=typescript%2Cpython%2Clinux%2Crust" alt="roadmap.sh"/></a><br><br><br>
+ <a href="https://roadmap.sh/u/thetyster"><img src="https://roadmap.sh/card/tall/677554a170129741a8879f3e?variant=dark&roadmaps=rust%2Ctypescript%2Cpython%2Clinux" alt="roadmap.sh"/></a><br><br><br>
   <a href="https://wakatime.com/@thetyster"><img alt="Waka Coding Stats" src="https://wakatime.com/share/@theTyster/606900cb-c453-4302-acb9-fbb3ba2f7cee.png" style="justify-content: center; display: grid;"/></a><br>
   <a href="https://wakatime.com/@thetyster"><img alt="Waka Language Stats" src="https://wakatime.com/share/@theTyster/887d1c8b-cfd4-4930-98b4-7c4cdcaff05d.png" style="justify-content: center; display: grid;"/></a><br>
   <a href="https://wakatime.com/@thetyster"><img alt="Waka Coding Days Table" src="https://wakatime.com/share/@theTyster/4f40b687-cb7c-472e-a7a1-df3e6b0a9f26.png" style="justify-content: center; display: grid;"/></a><br>

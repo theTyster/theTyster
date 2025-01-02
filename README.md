@@ -3,14 +3,24 @@
 <p align='center'>
   <img alt='Greeting' src='https://github.com/theTyster/theTyster/assets/136642464/298e0bf5-1485-4f07-b90f-8e226521ebd0'>
 </p>
+I am a software engineer with a background in public relations and advertising. Engineering dynamic, interactive, engaging, and search engine optimized content is my specialty.
 
-I am passionate about uniting people from different walks of life. I started my career in public relations and decided to further it by focusing in on web development. The web is probably the greatest tool in modern public relations. 
-
-My main objective as a front-end programmer is to make it easier for users to access information. Secondary to that, I want people to be able to trust the programs and software that they are using.
+Everything I build is lean, fast, secure, and accessible. I am a firm believer in the idea that the internet should be for everyone.
+  
+Good tests usher good software. I meticulously test everything I build and can use any testing suite.
+  
+Typescript seems to be what I work with the most, but Python is a close second.
+My database experience ranges from SQLite to PostgreSQL to NoSQL.
+  
+Recently, I have taken up creating my own SaaS built on Rust. (The code is not yet open but plans to be in the future.)
+  
+Flipping between front-end and back-end development is something I am fairly comfortable with, although I tend to work on the front-end more.
 <br><br><br>
 ## My Web Development Journey
 
-I have been studying web development every day since January 2023. I've come a long way, but still have so much to learn.
+I started my career in public relations and decided to further it by focusing in on web development. The web is probably the greatest tool in modern public relations. 
+
+My main objective as a software engineer is to make it easier for users to access information. Secondary to that, I want people to be able to trust the programs and software that they are using.
 
 I want to create software that empowers users with:
 - Accessible interfaces
@@ -30,11 +40,17 @@ Vim is my favorite editor.
 </p>
 
 <br><br><br>
-## Hit me with your Q's
+## Want to reach me?
 <p align='center'>
-  <a href='https://github.com/theTyster/theTyster/discussions'><img alt='Ask Me a Question' src='https://img.shields.io/badge/-Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=black&color=gray'></a>
-  &nbsp; &nbsp;
-  <a href='https://t.me/theTysterr'><img alt='Telegram' src='https://img.shields.io/badge/-thetysterr-blue?style=for-the-badge&logo=telegram&labelColor=white&color=gray'></a>
+    <br/>
+  <a href='https://t.me/theTysterr'><img alt='Telegram' src='https://img.shields.io/badge/-Message%20Me%20on%20Telegram-blue?style=for-the-badge&logo=telegram&labelColor=white&color=gray'></a>
+  <br/>
+    <a href='mailto:ty@mail.thetyster.dev'><img alt='Email' src='https://img.shields.io/badge/Email%20Me-white?style=for-the-badge&logo=maildotru&logoColor=black&labelColor=white&color=gray'></a>
+  <br/>
+  <!-- Not used so commenting this out for now.
+  <a href='https://github.com/theTyster/theTyster/discussions'><img alt='Ask Me a Question' src='https://img.shields.io/badge/Ask%20Me%20A%20Question-purple?style=for-the-badge&logo=github&labelColor=black&color=gray'></a>
+  -->
+
 </p>
 
 <br><br><br>

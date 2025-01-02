@@ -1,7 +1,7 @@
 # I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
 
 <p align='center'>
-  <img alt='Greeting' src='https://github.com/theTyster/theTyster/assets/136642464/298e0bf5-1485-4f07-b90f-8e226521ebd0'>
+  <img alt='Greeting' src='https://github.com/user-attachments/assets/0fe3edf3-5803-4bfc-b033-3d519fdc04fc'>
 </p>
 I am a software engineer with a background in public relations and advertising. Engineering dynamic, interactive, engaging, and search engine optimized content is my specialty.
 
@@ -16,6 +16,15 @@ Recently, I have taken up creating my own SaaS built on Rust. (The code is not y
   
 Flipping between front-end and back-end development is something I am fairly comfortable with, although I tend to work on the front-end more.
 <br><br><br>
+
+<p align='center'>
+   <a href="https://portfolio.thetyster.dev">
+     <img alt='View my portfolio' src='https://github.com/user-attachments/assets/27734c0d-7cbd-4da7-9801-b3d165d9e872'>
+   </a>
+</p>
+
+<br><br><br>
+
 ## My Web Development Journey
 
 I started my career in public relations and decided to further it by focusing in on web development. The web is probably the greatest tool in modern public relations. 

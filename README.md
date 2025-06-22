@@ -12,8 +12,6 @@ Good tests usher good software. I meticulously test everything I build and can u
 Typescript seems to be what I work with the most, but Python is a close second.
 My database experience ranges from SQLite to PostgreSQL to NoSQL.
 I'm comfortable using AI tools to speed up the development process. 
-  
-Flipping between front-end and back-end development is something I am fairly comfortable with, although I tend to work on the front-end more.
 <br><br><br>
 
 <p align='center'>

@@ -1,7 +1,7 @@
 # I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
 
 <p align='center'>
-  <img alt='Greeting' src='https://github.com/user-attachments/assets/f4184d07-673b-4f5d-b72a-e32f69d4ba24'>
+  <img alt='Greeting' src='https://github.com/user-attachments/assets/976bdec8-91d9-4898-9434-69814af547f1'>
 </p>
 I am a software engineer with a background in public relations and advertising. Engineering dynamic, interactive, engaging, and search engine optimized content is my specialty.
 

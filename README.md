@@ -1,5 +1,6 @@
 # I'm [Ty](https://portfolio.thetyster.dev)! 💾🐧
-![ai-rendition of me](https://github.com/user-attachments/assets/b2a68ee7-c265-4d04-8c03-b616a6b29eb2)
+     
+<img alt='ai-rendition of me' src='https://github.com/user-attachments/assets/310eddca-4b7a-4883-9003-26cd1f435bde'>
 <p align='center'>
    <a href="https://portfolio.thetyster.dev">
      <img alt='View my portfolio' src='https://github.com/user-attachments/assets/27734c0d-7cbd-4da7-9801-b3d165d9e872'>
